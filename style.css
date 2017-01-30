@@ -1,0 +1,21 @@
+header {
+	line-height: 10px;
+	text-align: center;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: flex-end;
+    justify-content: center;
+    width: 100%
+}
+
+.flex-box {
+    width: 100%
+	text-align: left;
+}
+
+main {
+	margin:	50px;
+}
