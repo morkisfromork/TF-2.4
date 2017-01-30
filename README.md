@@ -1,16 +1,1 @@
-# Requirements
-
-Use semantic HTML throughout the page. At a minimum you should use: <header>, <main>, <section>, and <address> (which you can read up on here).
-
-Include a page title (aka, use a <title> element) and meta description in the head. You should include these in all public facing web pages you create because they help web crawlers understand your page and contribute to search engine optimization.
-
-There should be a contact info section, with the following information about Sally:
-
-* Name
-* Email address (make one up) as a link
-* Phone number (make one up)
-* A picture (feel free to choose one or use this image of Ilana from Broad City) as a stand-in for Sally.
-* There should be a section for Sally's education, and it should list at least one college she attended.
-* There should be a section for Sally's employment history, and it should contain at least two entries. Each entry should show the company name, job title, dates of employment, and a short description of the job (for this last bit, feel free to use lorem ipsum filler text).
-* Back up your page using GitHub Desktop, using the process outlined in the previous lesson.
-* Share a link to your repo with your mentor.
+https://courses.thinkful.com/fewd-001v6/project/1.2.4
